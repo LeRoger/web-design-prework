@@ -1,0 +1,38 @@
+/* add your CSS here */
+#card{
+    border-style: outset;
+    height: 700px;
+    width: 400px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+#cardtext{
+    border-style: outset;
+    height: 350px;
+    width: 400;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+
+#spider{
+    border-style: outset;
+    height: 250px;
+    width: 370px;
+}
+
+#ulist{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+#ulist li span{
+    font-weight: bold;
+}
+
+
+#facts{
+    font-style: italic;
+}

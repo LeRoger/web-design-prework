@@ -1,0 +1,41 @@
+/* add your CSS here */
+
+#searchbox{
+   /* border-style: solid; */
+    padding: 25px;
+    margin-top: 200px;
+    margin-left: 300px;
+    width: 700px;
+    height: 200px;
+    box-sizing: border-box;
+}
+
+.input-form{
+    width: 500px;
+    height: 35px;
+    border-style: groove;
+}
+
+#l1{
+    color: red;
+}
+
+#l2{
+    color: blue;
+}
+
+#l3{
+    color: yellow;
+}
+
+#l4{
+    color: green;
+}
+
+#l5{
+    color: purple;
+}
+
+#l6{
+    color: orange;
+}
